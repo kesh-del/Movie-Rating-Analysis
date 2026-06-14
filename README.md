@@ -1,6 +1,6 @@
 # Intern Details
 
-- **Intern ID:** CT-642
+- **Intern ID:** CITS1623
 - **Full Name:** JONNA ABHISHEK
 - **Duration:** 4 Weeks
 
