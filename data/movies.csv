@@ -1,0 +1,56 @@
+movie_id,title,genres,release_year,rating,vote_count,popularity
+1,The Shawshank Redemption,Drama,1994,4.8,2345,92.1
+2,The Godfather,Crime|Drama,1972,4.7,2101,89.3
+3,The Dark Knight,Action|Crime|Drama,2008,4.6,3250,96.4
+4,Pulp Fiction,Crime|Drama,1994,4.5,1988,87.6
+5,Forrest Gump,Drama|Romance,1994,4.4,2402,85.2
+6,Inception,Action|Adventure|Sci-Fi,2010,4.5,3100,94.8
+7,Fight Club,Drama,1999,4.4,2203,83.7
+8,Interstellar,Adventure|Drama|Sci-Fi,2014,4.6,2950,91.5
+9,The Matrix,Action|Sci-Fi,1999,4.5,2605,90.2
+10,Goodfellas,Biography|Crime|Drama,1990,4.4,1422,79.8
+11,The Silence of the Lambs,Crime|Drama|Thriller,1991,4.3,1500,76.5
+12,Se7en,Crime|Drama|Mystery,1995,4.3,1633,78.4
+13,The Lord of the Rings: The Fellowship of the Ring,Adventure|Drama|Fantasy,2001,4.5,2888,88.9
+14,The Lord of the Rings: The Return of the King,Adventure|Drama|Fantasy,2003,4.6,3020,91.0
+15,Gladiator,Action|Adventure|Drama,2000,4.2,1805,80.1
+16,Titanic,Drama|Romance,1997,4.0,2750,86.8
+17,Avatar,Action|Adventure|Fantasy,2009,3.9,2990,93.6
+18,The Avengers,Action|Adventure|Sci-Fi,2012,4.1,3300,95.7
+19,Joker,Crime|Drama|Thriller,2019,4.2,2500,88.1
+20,Parasite,Drama|Thriller,2019,4.5,1700,82.4
+21,La La Land,Comedy|Drama|Music,2016,4.0,1200,74.2
+22,Coco,Animation|Adventure|Family,2017,4.3,1350,77.8
+23,Toy Story,Animation|Adventure|Comedy,1995,4.1,1455,75.0
+24,Finding Nemo,Animation|Adventure|Comedy,2003,4.0,1325,73.5
+25,The Social Network,Biography|Drama,2010,4.1,1100,70.4
+26,Whiplash,Drama|Music,2014,4.5,980,72.6
+27,Mad Max: Fury Road,Action|Adventure|Sci-Fi,2015,4.1,1650,81.7
+28,Black Panther,Action|Adventure|Sci-Fi,2018,3.8,2200,90.0
+29,Spirited Away,Animation|Adventure|Family,2001,4.6,1250,79.1
+30,The Lion King,Animation|Adventure|Drama,1994,4.3,1700,84.5
+31,The Grand Budapest Hotel,Adventure|Comedy|Drama,2014,4.1,900,68.9
+32,Get Out,Horror|Mystery|Thriller,2017,4.0,1300,76.3
+33,A Quiet Place,Drama|Horror|Sci-Fi,2018,3.9,1150,74.8
+34,The Departed,Crime|Drama|Thriller,2006,4.4,1600,82.0
+35,The Prestige,Drama|Mystery|Sci-Fi,2006,4.4,1400,78.9
+36,Up,Animation|Adventure|Comedy,2009,4.2,1380,77.2
+37,Inside Out,Animation|Adventure|Comedy,2015,4.2,1230,76.9
+38,The Wolf of Wall Street,Biography|Comedy|Crime,2013,4.1,1850,82.3
+39,No Country for Old Men,Crime|Drama|Thriller,2007,4.1,1000,69.4
+40,The Green Mile,Crime|Drama|Fantasy,1999,4.5,1425,78.2
+41,Blade Runner 2049,Action|Drama|Sci-Fi,2017,4.1,1450,80.8
+42,Dune,Action|Adventure|Drama,2021,4.2,2100,89.5
+43,Everything Everywhere All at Once,Action|Adventure|Comedy,2022,4.2,1500,84.1
+44,Top Gun: Maverick,Action|Drama,2022,4.3,1900,88.7
+45,Oppenheimer,Biography|Drama|History,2023,4.5,2300,92.9
+46,Barbie,Adventure|Comedy|Fantasy,2023,3.8,2100,91.6
+47,The Batman,Action|Crime|Drama,2022,4.0,2000,87.3
+48,Knives Out,Comedy|Crime|Drama,2019,4.0,1250,73.8
+49,Minari,Drama,2020,4.0,650,60.2
+50,Nomadland,Drama,2020,3.8,540,58.7
+51,Unknown Indie Drama,Drama,,4.0,75,35.0
+52,Classic Mystery,,1960,4.1,,42.5
+53,Experimental Sci-Fi,Sci-Fi,2011,,120,40.0
+54,Small Festival Film,Drama|Romance,2018,3.7,35,
+55,Documentary Spotlight,Documentary,2015,4.2,180,45.6
